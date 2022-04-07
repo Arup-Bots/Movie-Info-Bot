@@ -1,5 +1,3 @@
-# Author: Fayas (https://github.com/FayasNoushad) (@FayasNoushad)
-
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from plugins.info import *
@@ -9,12 +7,12 @@ I am a movie information finder bot.
 
 > `I can find information of all movies.`
 
-Made by @FayasNoushad"""
+Made by @tech_arup"""
 
 JOIN_BUTTONS = [
     InlineKeyboardButton(
         text='⚙ Join Updates Channel ⚙',
-        url='https://telegram.me/FayasNoushad'
+        url='https://telegram.me/tech_arup'
     )
 ]
 
