@@ -1,7 +1,7 @@
 {
     "name": "Movie-Info-Bot",
     "description": "A movie information finder telegram bot",
-    "repository": "https://github.com/FayasNoushad/Movie-Info-Bot",
+    "repository": "https://github.com/Arup-Bots/Movie-Info-Bot",
     "keywords": [
         "movie",
         "information",
@@ -11,13 +11,13 @@
     ],
     "env": {
         "BOT_TOKEN": {
-            "description": "Your Bot token from @Botfather"
+            "description": "5165786537:AAFHyXC9n4QJ_ZAsQ3sAaE0087tB1dIWlYQ"
         },
         "API_ID": {
-            "description": "Your API_ID from https://my.telegram.org/apps"
+            "description": "2775263"
         },
         "API_HASH": {
-            "description": "Your API_HASH from https://my.telegram.org/apps"
+            "description": "cd49ccdc85a012d980d41ef4a005ce3f"
         }
     },
     "buildpacks": [
